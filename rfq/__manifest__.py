@@ -4,7 +4,6 @@
     'version': '12.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Module for managing the vendor RFQ',
-    'version': '0.1',
     'license': 'LGPL-3',
     'author': 'Ezzat',
     'depends': ['base', 'mail', 'sale', 'website', 'stock', 'web_notify', 'purchase',
@@ -20,7 +19,6 @@
     ],
     'images': ['static/description/image.png'],
 
-    'version': '0.0.1',
     'application': True,
     'installable': True,
 
