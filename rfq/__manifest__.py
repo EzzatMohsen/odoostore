@@ -5,7 +5,7 @@
     'category': 'Extra Tools',
     'summary': 'Module for managing the vendor RFQ',
     'version': '0.1',
-    'licence': 'LGPL-3',
+    'license': 'LGPL-3',
     'author': 'Ezzat',
     'depends': ['base', 'mail', 'sale', 'website', 'stock', 'web_notify', 'purchase',
                 ],
