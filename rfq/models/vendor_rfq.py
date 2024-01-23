@@ -1,6 +1,6 @@
 from odoo import models, fields, api, _, exceptions
 import json
-
+##############
 
 class OnlineBookingLinemany(models.Model):
     _name = 'vendor.rfq'
