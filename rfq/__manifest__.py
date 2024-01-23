@@ -4,7 +4,7 @@
     'version': '12.0.1.0.0',
     'category': 'Extra Tools',
     'summary': 'Module for managing the vendor RFQ',
-    'license': 'AGPL',
+    'license': 'AGPL-3',
     'author': 'Ezzat',
     'depends': ['base', 'mail', 'sale', 'website', 'stock', 'web_notify', 'purchase',
                 ],
