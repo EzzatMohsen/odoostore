@@ -1,0 +1,2 @@
+# odoostore
+odoo apps
