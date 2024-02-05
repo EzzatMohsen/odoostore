@@ -1,4 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_vendor_rfq_lines,vendor_rfq_lines,model_vendor_rfq_lines,,1,1,1,1
-access_vendor_rfq,vendor_rfq,model_vendor_rfq,,1,1,1,1
-access_vendor_send_rfq,vendor_send_rfq,model_vendor_send_rfq,,1,1,1,1
