@@ -1,5 +1,5 @@
 {
-    'name': 'vendor_evaluation (Tender Analysis)',
+    'name': 'vendor_evaluation(Tender Analysis)',
     'sequence': '0',
     'version': '12.0.1.0.0',
     'category': 'Extra Tools',
